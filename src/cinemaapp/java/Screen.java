@@ -5,7 +5,7 @@ public class Screen {
     private int id;
     private int seatNumbers;
     private int fireExits;
-    
+    //test
     public Screen (int i, int sn, int f){//paramatized constructor
         this.id = i;
         this.seatNumbers = sn;
